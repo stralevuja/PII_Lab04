@@ -1,0 +1,3 @@
+/Users/strahinjavujasin/Documents/Uni/P2/Lab/L04/L04_01/cmake-build-debug/CMakeFiles/L04_01.dir
+/Users/strahinjavujasin/Documents/Uni/P2/Lab/L04/L04_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/strahinjavujasin/Documents/Uni/P2/Lab/L04/L04_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
