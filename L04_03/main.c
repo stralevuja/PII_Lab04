@@ -3,12 +3,14 @@
 int main(int argc, char *argv[]) {
     if (argc != 2) {
         printf("Err01: Neispravan argument.");
+        return 1;
     }
 
     FILE *fp = fopen(argv[1], "w"); //otvara dat
 
     if (fp == NULL) {
         printf("Err02: Neuspjelo otvaranje datoteke.");
+        return 2;
     }
 
     int n;

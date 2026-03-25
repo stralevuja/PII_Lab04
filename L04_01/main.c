@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
 
     if (ulazna == NULL) {
         printf("Err02: Ulazna datoteka nije uspjesno otvorena.\n");
-        return 1;
+        return 2;
     }
 
     if (izlazna == NULL) {
